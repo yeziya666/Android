@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="primary_light">#FF8F5E</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#FF8C42</color>
+    <color name="accent">#FFB347</color>
+
+    <!-- Background -->
+    <color name="background_light">#FFF8F6</color>
+    <color name="surface_light">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#FF9800</color>
+    <color name="status_delivering">#2196F3</color>
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_canceled">#F44336</color>
+
+    <!-- Cart Badge -->
+    <color name="badge_red">#FF3D00</color>
+
+    <!-- Divider -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Price -->
+    <color name="price_red">#E53935</color>
+
+    <!-- Keep existing -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
